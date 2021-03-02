@@ -1,0 +1,13 @@
+C:\Data\Dropbox\Homework\School Projects\St Kents\Year 13\Digital Technology\C#\Task 1\bin\Debug\netcoreapp3.1\Task 1.exe
+C:\Data\Dropbox\Homework\School Projects\St Kents\Year 13\Digital Technology\C#\Task 1\bin\Debug\netcoreapp3.1\Task 1.deps.json
+C:\Data\Dropbox\Homework\School Projects\St Kents\Year 13\Digital Technology\C#\Task 1\bin\Debug\netcoreapp3.1\Task 1.runtimeconfig.json
+C:\Data\Dropbox\Homework\School Projects\St Kents\Year 13\Digital Technology\C#\Task 1\bin\Debug\netcoreapp3.1\Task 1.runtimeconfig.dev.json
+C:\Data\Dropbox\Homework\School Projects\St Kents\Year 13\Digital Technology\C#\Task 1\bin\Debug\netcoreapp3.1\Task 1.dll
+C:\Data\Dropbox\Homework\School Projects\St Kents\Year 13\Digital Technology\C#\Task 1\bin\Debug\netcoreapp3.1\Task 1.pdb
+C:\Data\Dropbox\Homework\School Projects\St Kents\Year 13\Digital Technology\C#\Task 1\obj\Debug\netcoreapp3.1\Task 1.csprojAssemblyReference.cache
+C:\Data\Dropbox\Homework\School Projects\St Kents\Year 13\Digital Technology\C#\Task 1\obj\Debug\netcoreapp3.1\Task 1.AssemblyInfoInputs.cache
+C:\Data\Dropbox\Homework\School Projects\St Kents\Year 13\Digital Technology\C#\Task 1\obj\Debug\netcoreapp3.1\Task 1.AssemblyInfo.cs
+C:\Data\Dropbox\Homework\School Projects\St Kents\Year 13\Digital Technology\C#\Task 1\obj\Debug\netcoreapp3.1\Task 1.csproj.CoreCompileInputs.cache
+C:\Data\Dropbox\Homework\School Projects\St Kents\Year 13\Digital Technology\C#\Task 1\obj\Debug\netcoreapp3.1\Task 1.dll
+C:\Data\Dropbox\Homework\School Projects\St Kents\Year 13\Digital Technology\C#\Task 1\obj\Debug\netcoreapp3.1\Task 1.pdb
+C:\Data\Dropbox\Homework\School Projects\St Kents\Year 13\Digital Technology\C#\Task 1\obj\Debug\netcoreapp3.1\Task 1.genruntimeconfig.cache
